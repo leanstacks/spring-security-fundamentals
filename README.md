@@ -20,7 +20,11 @@ Each episode of the Spring Security Fundamentals video series has a correspondin
 
 #### custom-db-1
 
-The branch named `custom-db-1` contains the source code illustrated in the episode [Creating a Custom Spring Security Solution - Episode 1](https://github.com/mwarman/spring-security-fundamentals/tree/custom-db-1).
+The branch named `custom-db-1` contains the source code illustrated in the episode [Creating a Custom Spring Security Solution - Episode 1](https://youtu.be/XLfOlqG_tNU?list=PLGDwUiT1wr6-cvT21QHjfB_9xf7b7k7a-).
+
+#### custom-db-2
+
+The branch named `custom-db-2` contains the source code illustrated in the episode [Creating a Custom Spring Security Solution - Episode 2](https://youtu.be/DMgo-Zr5ESs?list=PLGDwUiT1wr6-cvT21QHjfB_9xf7b7k7a-).
 
 
 ## Languages
