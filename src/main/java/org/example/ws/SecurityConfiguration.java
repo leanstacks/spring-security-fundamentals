@@ -73,6 +73,7 @@ public class SecurityConfiguration {
             // @formatter:off
             
             http
+              .csrf().disable()
               .antMatcher("/api/**")
                 .authorizeRequests()
                   .anyRequest().hasRole("USER")
@@ -105,6 +106,7 @@ public class SecurityConfiguration {
             // @formatter:off
             
             http
+              .csrf().disable()
               .antMatcher("/actuators/**")
                 .authorizeRequests()
                   .anyRequest().hasRole("SYSADMIN")
